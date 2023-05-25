@@ -61,3 +61,4 @@ plt.legend(['Regression Line','Data points'])
 ![image](https://github.com/Selvakumar525/Correlation_Regression/assets/120643262/4ff4449c-e03a-434e-acc6-b37ff42c33f2)
 
 # Result
+Hence the data has been analysed using coeffificient of correlation and regression line.
